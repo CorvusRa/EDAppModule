@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "659606246200",
+    "firebase_url": "https://earthquakedetector-90350.firebaseio.com",
+    "project_id": "earthquakedetector-90350",
+    "storage_bucket": "earthquakedetector-90350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659606246200:android:9991f97299fededf",
+        "android_client_info": {
+          "package_name": "pcbri1.edappmodule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659606246200-6sapfhsmu2jnegf5lgh39c7dit60e21v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pcbri1.edappmodule",
+            "certificate_hash": "732e39ce1ae9aaf88a11445592754b8098380361"
+          }
+        },
+        {
+          "client_id": "659606246200-s4ih07qlind1sm02rqm2dlp9296ue3f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO6O2P9hTJnfOhqp6Uf_Vt716IncuYoEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659606246200-s4ih07qlind1sm02rqm2dlp9296ue3f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
